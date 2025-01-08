@@ -214,14 +214,11 @@ else:
 
 
 if type==1:
-  print("11111")
   processor = TableStructure1("testing.xlsx")
 elif type==2:
   processor = TableStructure2("testing.xlsx")
-  print("22222")
 elif type==3:
   processor = TableStructure3("testing.xlsx")
-  print("33333")
 processor.load_data()
 processor.process_table()
 processor.save_data("modified_file_with_rearranged_columns.xlsx")
