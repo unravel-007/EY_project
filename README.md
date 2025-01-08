@@ -1,1 +1,1 @@
-Rename the file you want to input as testing.xlsx
+Rename the file you want to input from the INPUT folder as testing.xlsx
