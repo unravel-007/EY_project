@@ -1,1 +1,1 @@
-Rename the file you want to input from the INPUT folder as testing.xlsx
+Upload one of the input test case sheets from the input folder.
